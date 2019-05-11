@@ -1,0 +1,7 @@
+﻿  DLL.cpp
+c:\users\1n54n3\documents\visual studio 2017\projects\m0nstersrfhook\m0nstersrfhook\scanner.h(64): warning C4102: 'Initialize': unreferenced label
+  MyForm.cpp
+c:\users\1n54n3\documents\visual studio 2017\projects\m0nstersrfhook\m0nstersrfhook\scanner.h(64): warning C4102: 'Initialize': unreferenced label
+  Generating Code...
+  DLL.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  M0nstersRFHook.vcxproj -> C:\Users\1N54N3\Documents\Visual Studio 2017\Projects\M0nstersRFHook\Debug\M0nstersRFHook.dll
